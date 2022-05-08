@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/80168982/166939112-94b5a9ff-6c78-43dd-94cb-23557a9adfff.png)
 
 ## IDEF 0
-![image](https://user-images.githubusercontent.com/80168982/167289162-b4bb2c7c-cab0-4da5-b951-87818d18dbe8.png)
+![image](https://user-images.githubusercontent.com/80168982/167289483-12866be5-288a-4657-839d-1ca5e79ad6de.png)
 
 ## DFD
 ![image](https://user-images.githubusercontent.com/80168982/167289317-26c93cf1-4c0e-44bb-ad95-48d65a1f706b.png)
