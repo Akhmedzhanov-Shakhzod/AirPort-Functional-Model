@@ -8,3 +8,6 @@
 
 ## IDEF 0
 ![image](https://user-images.githubusercontent.com/80168982/167285819-44a5493d-bf73-411d-924c-37131a80b1ae.png)
+
+## DFD
+![image](https://user-images.githubusercontent.com/80168982/167286620-ab023b4b-b5db-4834-bc06-72f68b450cae.png)
