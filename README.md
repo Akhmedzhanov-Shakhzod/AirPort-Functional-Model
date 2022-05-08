@@ -5,3 +5,6 @@
 
 ## IDEF 0
 ![image](https://user-images.githubusercontent.com/80168982/166939112-94b5a9ff-6c78-43dd-94cb-23557a9adfff.png)
+
+## IDEF 0
+![image](https://user-images.githubusercontent.com/80168982/167285819-44a5493d-bf73-411d-924c-37131a80b1ae.png)
