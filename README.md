@@ -25,9 +25,10 @@
 ![image](https://user-images.githubusercontent.com/80168982/168738666-2c495dd5-0cd9-4f59-90ee-d59bc58afe5e.png)
 
 ---
-## Dictionary Entities
-![image](https://user-images.githubusercontent.com/80168982/168745937-ebffd560-629e-4c46-9bcb-477e5b258b71.png)
+## Preparation of luggage for the flight
+>### Dictionary Entities
+>>![image](https://user-images.githubusercontent.com/80168982/168745937-ebffd560-629e-4c46-9bcb-477e5b258b71.png)
 
-## Dictionary Entity Attributes
-![image](https://user-images.githubusercontent.com/80168982/168745617-e34fa6f1-aee2-4d5b-b2ba-289fe2a86396.png)
+>### Dictionary Entity Attributes
+>>![image](https://user-images.githubusercontent.com/80168982/168745617-e34fa6f1-aee2-4d5b-b2ba-289fe2a86396.png)
 
