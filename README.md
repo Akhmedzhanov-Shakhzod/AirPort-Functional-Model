@@ -32,3 +32,6 @@
 >### Dictionary Entity Attributes
 >>![image](https://user-images.githubusercontent.com/80168982/168745617-e34fa6f1-aee2-4d5b-b2ba-289fe2a86396.png)
 
+>### Logical model
+>>![image](https://user-images.githubusercontent.com/80168982/168752312-a221df82-0237-462a-a05f-fe52239edf8f.png)
+
