@@ -27,7 +27,7 @@
 ---
 ## Preparation of luggage for the flight
 >### Dictionary Entities
->>![image](https://user-images.githubusercontent.com/80168982/168745937-ebffd560-629e-4c46-9bcb-477e5b258b71.png)
+>>![image](https://user-images.githubusercontent.com/80168982/169301683-48735240-c6e3-40db-9cb3-32971cc03ae3.png)
 
 >### Dictionary Entity Attributes
 >>![image](https://user-images.githubusercontent.com/80168982/168745617-e34fa6f1-aee2-4d5b-b2ba-289fe2a86396.png)
