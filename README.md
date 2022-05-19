@@ -33,6 +33,6 @@
 >>![image](https://user-images.githubusercontent.com/80168982/169301885-e0cfcaa7-d2e0-4c10-a589-d65c4bfeb7fa.png)
 
 >### Logical model
->>![image](https://user-images.githubusercontent.com/80168982/169314852-eaf3f941-51db-45a6-8d5c-11a80b6ff4ea.png)
+>>![image](https://user-images.githubusercontent.com/80168982/169318946-b426050a-0ca9-41ed-b808-5033171a47eb.png)
 >### Physical model
->>![image](https://user-images.githubusercontent.com/80168982/169314974-05fa0e6e-2421-4a40-823d-047b877577a5.png)
+>>![image](https://user-images.githubusercontent.com/80168982/169318710-4ac86083-923b-467a-8c04-87398891d433.png)
