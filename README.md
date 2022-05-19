@@ -30,7 +30,7 @@
 >>![image](https://user-images.githubusercontent.com/80168982/169301683-48735240-c6e3-40db-9cb3-32971cc03ae3.png)
 
 >### Dictionary Entity Attributes
->>![image](https://user-images.githubusercontent.com/80168982/168745617-e34fa6f1-aee2-4d5b-b2ba-289fe2a86396.png)
+>>![image](https://user-images.githubusercontent.com/80168982/169301885-e0cfcaa7-d2e0-4c10-a589-d65c4bfeb7fa.png)
 
 >### Logical model
 >>![image](https://user-images.githubusercontent.com/80168982/168752312-a221df82-0237-462a-a05f-fe52239edf8f.png)
