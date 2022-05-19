@@ -36,3 +36,6 @@
 >>![image](https://user-images.githubusercontent.com/80168982/169318946-b426050a-0ca9-41ed-b808-5033171a47eb.png)
 >### Physical model
 >>![image](https://user-images.githubusercontent.com/80168982/169318710-4ac86083-923b-467a-8c04-87398891d433.png)
+
+>### Database diagram
+>>![image](https://user-images.githubusercontent.com/80168982/169328503-5b7353f3-cfe9-408f-b380-a8be4993e0fe.png)
