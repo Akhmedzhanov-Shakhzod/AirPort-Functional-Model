@@ -30,7 +30,7 @@
 ![image](https://user-images.githubusercontent.com/80168982/168738666-2c495dd5-0cd9-4f59-90ee-d59bc58afe5e.png)
 
 ---
-## Preparation of luggage for the flight
+## Sorting and completing luggage in special containers
 >### Dictionary Entities
 >>![image](https://user-images.githubusercontent.com/80168982/169301683-48735240-c6e3-40db-9cb3-32971cc03ae3.png)
 
