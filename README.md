@@ -53,4 +53,9 @@
 >### Dictionary Entity Attributes
 >>![image](https://user-images.githubusercontent.com/80168982/169637885-e1908ff3-fa5e-4189-80ec-833e08c87722.png)
 
+>### Logical model
+>>![image](https://user-images.githubusercontent.com/80168982/169637951-b8a819ed-b531-4eaa-abce-aa28d427b950.png)
+
+>### Physical model
+>>![image](https://user-images.githubusercontent.com/80168982/169637971-6fb9e560-f0bc-4ff3-9b7c-28142ad385ae.png)
 
