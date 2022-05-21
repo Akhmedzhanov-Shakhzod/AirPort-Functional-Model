@@ -59,3 +59,7 @@
 >### Physical model
 >>![image](https://user-images.githubusercontent.com/80168982/169637971-6fb9e560-f0bc-4ff3-9b7c-28142ad385ae.png)
 
+>### Database diagram
+>>![image](https://user-images.githubusercontent.com/80168982/169638117-f5c4db1e-0c5e-4191-8f82-31557a75bec1.png)
+
+
