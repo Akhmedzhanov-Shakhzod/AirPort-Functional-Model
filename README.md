@@ -44,3 +44,13 @@
 
 >### Database diagram
 >>![image](https://user-images.githubusercontent.com/80168982/169328503-5b7353f3-cfe9-408f-b380-a8be4993e0fe.png)
+
+---
+## Accepting orders and selling tickets
+>### Dictionary Entities
+>>![image](https://user-images.githubusercontent.com/80168982/169637862-6f7cc888-610d-4e93-94fc-3c39591fbfbd.png)
+
+>### Dictionary Entity Attributes
+>>![image](https://user-images.githubusercontent.com/80168982/169637885-e1908ff3-fa5e-4189-80ec-833e08c87722.png)
+
+
